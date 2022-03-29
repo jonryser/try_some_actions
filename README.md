@@ -1,2 +1,3 @@
-# try_some_actions
+# Try Some Actions
+
 A repo to try out various Github actions
